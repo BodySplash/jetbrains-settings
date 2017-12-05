@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta dollar" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta dollar" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
