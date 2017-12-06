@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
   <JSCodeStyleSettings>
@@ -6,6 +6,8 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
