@@ -7,6 +7,7 @@
       <mapping pattern="layout" type="PLAIN_TEXT" />
       <mapping pattern=".drone.sec" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="startNegociationSaga" type="PLAIN_TEXT" />
       <mapping pattern="LocalState" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
