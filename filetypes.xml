@@ -6,6 +6,7 @@
       <mapping pattern="Article" type="JavaScript" />
       <mapping pattern=".drone.sec" type="PLAIN_TEXT" />
       <mapping pattern="layout" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="FlashActuApi" type="PLAIN_TEXT" />
       <mapping pattern="mongo-seed" type="PLAIN_TEXT" />
       <mapping pattern="startNegociationSaga" type="PLAIN_TEXT" />
