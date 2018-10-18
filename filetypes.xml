@@ -6,7 +6,6 @@
       <mapping pattern="Article" type="JavaScript" />
       <mapping pattern=".drone.sec" type="PLAIN_TEXT" />
       <mapping pattern="layout" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="FlashActuApi" type="PLAIN_TEXT" />
       <mapping pattern="mongo-seed" type="PLAIN_TEXT" />
       <mapping pattern="startNegociationSaga" type="PLAIN_TEXT" />
@@ -15,11 +14,13 @@
       <mapping pattern="Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="aggregator" type="PLAIN_TEXT" />
+      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="LocalState" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".ratpack" type="PLAIN_TEXT" />
-      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="sdp" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
