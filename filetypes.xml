@@ -9,23 +9,25 @@
       <mapping pattern="layout" type="PLAIN_TEXT" />
       <mapping pattern="FlashActuApi" type="PLAIN_TEXT" />
       <mapping pattern="mongo-seed" type="PLAIN_TEXT" />
+      <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="startNegociationSaga" type="PLAIN_TEXT" />
       <mapping pattern="articles" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="aggregator" type="PLAIN_TEXT" />
-      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
-      <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="LocalState" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".ratpack" type="PLAIN_TEXT" />
+      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="catalog" type="PLAIN_TEXT" />
       <mapping ext="sdp" type="PLAIN_TEXT" />
-      <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="j" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="rec" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="YAML_EX" />
     </extensionMap>
   </component>
