@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+  </component>
+</application>
